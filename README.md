@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edward Chen
-- 👀 I’m interested in CS, ML, rationality
-- 🌱 I’m currently learning dev work, swe, and RL
+- 👀 I’m interested in artificial intelligence, blockchain technologies, and applied rationality
+- 🌱 I’m currently learning statistics and psychology
 - 📫 Reach me at echen333us[at]gmail.com
 
 <!---
