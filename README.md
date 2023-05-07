@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edward Chen
-- 👀 I’m interested in artificial intelligence, blockchain technologies, and applied rationality
+- 👀 I’m interested in blockchain
 - 🌱 I’m currently learning statistics and psychology
 - 📫 Reach me at echen333us[at]gmail.com
 
