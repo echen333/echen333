@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Edward Chen
 - 📫 Reach me at echen333us[at]gmail.com
+- 🌐 Find me at [edwardchen.me](https://edwardchen.me)
 
 <!---
 echen333/echen333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
